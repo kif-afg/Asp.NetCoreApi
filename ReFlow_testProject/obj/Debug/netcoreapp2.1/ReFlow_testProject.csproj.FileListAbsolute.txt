@@ -1,0 +1,14 @@
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\bin\Debug\netcoreapp2.1\ReFlow_testProject.deps.json
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\bin\Debug\netcoreapp2.1\ReFlow_testProject.runtimeconfig.json
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\bin\Debug\netcoreapp2.1\ReFlow_testProject.runtimeconfig.dev.json
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\bin\Debug\netcoreapp2.1\ReFlow_testProject.dll
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\bin\Debug\netcoreapp2.1\ReFlow_testProject.pdb
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.csprojAssemblyReference.cache
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.csproj.CoreCompileInputs.cache
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.RazorAssemblyInfo.cache
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.RazorAssemblyInfo.cs
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.AssemblyInfoInputs.cache
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.AssemblyInfo.cs
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.RazorTargetAssemblyInfo.cache
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.dll
+D:\my data\ReFlow\ReFlow_testProject\ReFlow_testProject\obj\Debug\netcoreapp2.1\ReFlow_testProject.pdb
